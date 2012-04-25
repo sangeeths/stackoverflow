@@ -1,0 +1,6 @@
+git add <filename>
+git commit -m "comments here.."
+
+git remote add origin master git@github.com:sangeeths/<repository-name.git>
+git push origin master
+
